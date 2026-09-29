@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.8.90"
+  version: "0.8.91"
 
 package:
   name: hyperframes
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://registry.npmjs.org/hyperframes/-/hyperframes-${{ version }}.tgz
-    sha256: 175d4755fcb220bed61050b3e50d9b050a9033ce8d1aefbaa88ed60af9fc5ad7
+    sha256: 4474fcb655a6f02630cb0535b6e25cca11baf2eff8b5cd20a84f97898adf4c22
 
 build:
   number: 0
